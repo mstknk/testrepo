@@ -8,7 +8,7 @@ You can find the source code for this custom workitem handlers here:
 
 and configure them inside the WEB-INF/classes/META-INF/CustomWorkItemHandlers.conf
 For Example:
-dad
+dadd
 ...
 "CreateCustomer": new com.salaboy.jbpm.customer.services.CreateCustomerWorkItemHandler(),
  "AddCustomerComment": new com.salaboy.jbpm.customer.services.AddCustomerCommentsWorkItemHandler(),
